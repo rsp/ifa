@@ -62,13 +62,14 @@ It should be:
 
 ---
 
-What can we do
+What can we do:
 
 - Use modern technologies
 - Expose all data with an API
 - Build a Static/JAMstack website
-- Use good hosting with CDN like Netlify
-  - (we already us it)
+- Use good hosting with CDN like Netlify<br>(we already us it)
+
+---
 
 Bonus:
 
