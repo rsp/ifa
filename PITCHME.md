@@ -2,7 +2,11 @@
 
 ---
 
-## inFullApi
+Problem:
+
+infullmobile.com website is sloooooow
+
+Especially when accessed from the US
 
 ---
 
@@ -28,23 +32,21 @@
 
 ![](testmysite.png)
 
+<small>https://testmysite.io/5bf530f7e39e7c78ae0e09e4/infullmobile.com</small>
+
 ---
 
 ![](webpagetest1.png)
 
----
-
-![](webpagetest2.png)
-
-https://www.webpagetest.org/result/181121_WZ_b79026bbf061ef6b5b648bb8083e9dde/
+<small>https://www.webpagetest.org/result/181121_WZ_b79026bbf061ef6b5b648bb8083e9dde/</small>
 
 ---
 
 HTML load time (no images and no rendering)
 
-It is:
-
 ![](stats-ifm.png)
+
+<small>(stats for the production website of inFullMobile)</small>
 
 <small>https://testmysite.io/5bf530f7e39e7c78ae0e09e4/infullmobile.com</small>
 
@@ -54,15 +56,32 @@ It should be:
 
 ![](stats-bv.png)
 
-<small>https://testmysite.io/5bf537a4b3127472b90dbbb2/bv-web-develop.netlify.com</small>
+<small>(stats for the development website of BookVenyou)
 
-<small>(it's a development version of BookVenyou)</small>
+<small>https://testmysite.io/5bf537a4b3127472b90dbbb2/bv-web-develop.netlify.com</small>
 
 ---
 
 What can we do
 
+- Use modern technologies
+- Expose all data with an API
+- Build a Static/JAMstack website
+- Use good hosting with CDN like Netlify
+  - (we already us it)
 
+Bonus:
+
+We'll have good recruitment tasks:
+
+- Frontend: create a website using the API
+- Backend: create an API using a database
+
+---
+
+JAMstack
+
+(client-side JavaScript, reusable APIs, and prebuilt Markup)
 
 How can we incrementally make it more 
 
