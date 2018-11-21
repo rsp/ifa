@@ -6,7 +6,7 @@
 
 ---
 
-5+ seconds (not milliseconds!) load time on WebPageTest:
+**5+ seconds** (not milliseconds!) load time on WebPageTest
 
 - First Byte Time: F grade
 - Cache static content: F grade
@@ -14,7 +14,9 @@
 
 <small>https://www.webpagetest.org/result/181121_86_dad9bcf684a911aee2353d6d98c463a1/</small>
 
-3/100 score on testmysite.io:
+---
+
+**3/100** score on testmysite.io
 
 - Slow TTFB (Time To First Byte)
 - Slow loading HTML
@@ -44,9 +46,15 @@ It is:
 
 ![](stats-ifm.png)
 
+<small>https://testmysite.io/5bf530f7e39e7c78ae0e09e4/infullmobile.com</small>
+
+---
+
 It should be:
 
 ![](stats-bv.png)
+
+<small>https://testmysite.io/5bf537a4b3127472b90dbbb2/bv-web-develop.netlify.com</small>
 
 <small>(it's a development version of BookVenyou)</small>
 
