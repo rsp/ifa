@@ -56,7 +56,7 @@ It should be:
 
 ![](stats-bv.png)
 
-<small>(stats for the development website of BookVenyou)
+<small>(stats for the development website of BookVenyou)</small>
 
 <small>https://testmysite.io/5bf537a4b3127472b90dbbb2/bv-web-develop.netlify.com</small>
 
