@@ -2,6 +2,50 @@
 
 ---
 
+But first...
+
+---
+
+inFullMobile on GitHub - logged in
+
+![](gh-sum-l.png)
+
+Note: "People: 52" - This is how we see ourselves.
+
+---
+
+inFullMobile on GitHub - logged out
+
+![](gh-sum-i.png)
+
+Note: "People: 4" - This is how other people see us.
+
+---
+
+Who are those brave 4?
+
+---
+
+Hall of Fame
+
+![](gh-p-i.png)
+
+---
+
+How to fix it - change "Private" to "Public"
+
+![](gh-p-l.png)
+
+---
+
+Stack Overflow
+
+![](so-ifm.png)
+
+https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
+
+---
+
 Problem:
 
 infullmobile.com website is sloooooow
@@ -67,16 +111,17 @@ What can we do:
 - Use modern technologies
 - Expose all data with an API
 - Build a Static/JAMstack website
-- Use good hosting with CDN like Netlify<br>(we already us it)
+- Use good hosting with CDN
 
 ---
 
 Bonus:
 
-We'll have good recruitment tasks:
-
-- Frontend: create a website using the API
-- Backend: create an API using a database
+- We'll have good recruitment tasks:
+  - Backend: create an API using a database
+  - Frontend: create a website using the API
+  - Mobile: create an app using the API
+- We'll be able to create a company mobile app
 
 ---
 
@@ -84,7 +129,42 @@ JAMstack
 
 (client-side JavaScript, reusable APIs, and prebuilt Markup)
 
-How can we incrementally make it more 
+---
+
+How can we incrementally achieve the goal:
+
+- Cloudinary - https://cloudinary.com/
+
+---
+
+Example technology:
+
+Headless CMS - hosted:
+
+- Contentful - https://www.contentful.com/
+- Prismic - https://prismic.io/
+- GatherContent - https://gathercontent.com/
+- ButterCMS - https://buttercms.com/
+- TakeShape - https://www.takeshape.io/
+- Kentico Cloud - https://kenticocloud.com/
+- Netlify CMS - ttps://www.netlifycms.org/
+- Strapi - https://strapi.io/
+- KeystoneJS - https://keystonejs.com/
+
+Static content handling and asset conversion:
+- Cloudinary - https://cloudinary.com/
+- Uploadcare - https://uploadcare.com/
+- Filestack - https://www.filestack.com/
+
+Static hosting and CDN:
+- Netlify - https://www.netlify.com/
+
+
+
+
+
+
+
 
 https://www.filestack.com/
 
