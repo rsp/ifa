@@ -52,9 +52,11 @@ Especially when accessed from the US.
 
 Not a problem if we don't look for clients there.
 
+Unfortunately we do.
+
 ---
 
-**5+ seconds** (not milliseconds!) load time on WebPageTest
+**5+ seconds** (not milliseconds!)<br>load time on WebPageTest
 
 - First Byte Time: F grade
 - Cache static content: F grade
@@ -64,7 +66,7 @@ Not a problem if we don't look for clients there.
 
 ---
 
-**3/100** score on testmysite.io
+**3/100**<br>score on testmysite.io
 
 - Slow TTFB (Time To First Byte)
 - Slow loading HTML
