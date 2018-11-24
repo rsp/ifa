@@ -1,24 +1,22 @@
 # inFullApi
 
+Hackathon
+
 ---
 
 But first...
 
 ---
 
-inFullMobile on GitHub - logged in
+This is how we see ourselves on GitHub:
 
 ![](gh-sum-l.png)
 
-Note: "People: 52" - This is how we see ourselves.
-
 ---
 
-inFullMobile on GitHub - logged out
+This is how other people see us on GitHub:
 
 ![](gh-sum-i.png)
-
-Note: "People: 4" - This is how other people see us.
 
 ---
 
@@ -26,23 +24,19 @@ Who are those brave 4?
 
 ---
 
-Hall of Fame
-
 ![](gh-p-i.png)
 
 ---
 
-How to fix it - change "Private" to "Public"
-
-![](gh-p-l.png)
-
----
-
-Stack Overflow
+This is how other people see us on Stack Overflow:
 
 ![](so-ifm.png)
 
 https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
+
+---
+
+Now back to the hackathon.
 
 ---
 
