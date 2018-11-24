@@ -20,7 +20,7 @@ This is how other people see us on GitHub:
 
 ---
 
-Who are those brave 4?
+Who are those brave 4 who don't hide that they work here?
 
 ---
 
@@ -30,7 +30,7 @@ Who are those brave 4?
 
 This is how other people see us on Stack Overflow:
 
-![](so-ifm.png)
+![](so-ifm-c.png)
 
 https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
 
