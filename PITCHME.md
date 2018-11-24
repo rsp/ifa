@@ -117,34 +117,62 @@ What can we do:
 
 ---
 
-Bonus:
+Advantages:
 
-- We'll learn modern technologies
-- Clients will see that we can build modern systems
-- We'll have good recruitment tasks:
-  - Backend: create an API using a database
-  - Frontend: create a website using the API
-  - Mobile: create an app using the API
+- We'll be up-to-date with modern technologies
+- Clients will see that we can build fast systems
 - We'll be able to create a company mobile app easily
 - We'll be able to build and test new website prototypes
 
 ---
 
+We'll have good recruitment tasks:
+
+  - Backend: create an API using the database
+  - Frontend: create a website using the API
+  - Mobile: create an app using the API
+
+---
+
 JAMstack
 
-- client-side **J**avaScript
-- reusable **A**PIs
-- prebuilt **M**arkup
+- client-side __J__avaScript
+- reusable __A__PIs
+- prebuilt __M__arkup
 
 ---
 
 How can we incrementally achieve the goal:
 
-- Cloudinary - https://cloudinary.com/
+1. Use a headless CMS
+2. Import data from WordPress
+3. Create a static website based on the current HTML
+4. Populate it with the data from the new CMS via API
+5. Incrementally improve the website or create new versions
 
 ---
 
-Example technology:
+It works like this:
+
+- the headless CMS is used to easily edit content with a convenient UI
+- it exposes all the data via API to the frontend
+- we can switch the frontend without changing the authoring process
+
+---
+
+The frontend can be:
+
+- a custom website in vanilla JS
+- a single-page application (SPA)
+- it can be rendered client-side or server-side
+- it can use Angular, React, Vue, Ember, Aurelia...
+- it can use a static site generator
+
+---
+
+Tech stack
+
+---
 
 Headless CMS - hosted:
 
@@ -154,24 +182,49 @@ Headless CMS - hosted:
 - ButterCMS - https://buttercms.com/
 - TakeShape - https://www.takeshape.io/
 - Kentico Cloud - https://kenticocloud.com/
-- Netlify CMS - ttps://www.netlifycms.org/
+- Netlify CMS - https://www.netlifycms.org/
+
+---
+
+Headless CMS - installed:
+
 - Strapi - https://strapi.io/
 - KeystoneJS - https://keystonejs.com/
 
-Static content handling and asset conversion:
+---
+
+Static site generators:
+
+- Jekyll - https://jekyllrb.com/
+- Next - https://nextjs.org/
+- Gatsby - https://www.gatsbyjs.org/
+- Hexo - https://hexo.io/
+- VuePress - https://vuepress.vuejs.org/
+
+Much more at: https://www.staticgen.com/
+
+---
+
+Static content handling<br>and asset conversion:
+
 - Cloudinary - https://cloudinary.com/
 - Uploadcare - https://uploadcare.com/
 - Filestack - https://www.filestack.com/
 
+---
+
 Static hosting and CDN:
+
 - Netlify - https://www.netlify.com/
 
+I didn't find anything better yet.
 
+We already use it.
 
+---
 
+Slides:
 
+[pocztarski.com/ifa](https://pocztarski.com/ifa)
 
-
-
-https://www.filestack.com/
-
+---
