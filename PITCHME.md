@@ -20,7 +20,9 @@ This is how other people see us on GitHub:
 
 ---
 
-Who are those brave 4 who don't hide that they work here?
+Who are those brave 4 who<br>don't hide that they work here?
+
+Any guesses?
 
 ---
 
@@ -28,11 +30,13 @@ Who are those brave 4 who don't hide that they work here?
 
 ---
 
-This is how other people see us on Stack Overflow:
+It's even worse on Stack Overflow.
+
+Only 3 people have ever admitted working at inFullMobile.
+
+---
 
 ![](so-ifm-c.png)
-
-https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
 
 ---
 
@@ -42,9 +46,11 @@ Now back to the hackathon.
 
 Problem:
 
-infullmobile.com website is sloooooow
+infullmobile.com website is sloooooow.
 
-Especially when accessed from the US
+Especially when accessed from the US.
+
+Not a problem if we don't look for clients there.
 
 ---
 
@@ -111,17 +117,22 @@ What can we do:
 
 Bonus:
 
+- We'll learn modern technologies
+- Clients will see that we can build modern systems
 - We'll have good recruitment tasks:
   - Backend: create an API using a database
   - Frontend: create a website using the API
   - Mobile: create an app using the API
-- We'll be able to create a company mobile app
+- We'll be able to create a company mobile app easily
+- We'll be able to build and test new website prototypes
 
 ---
 
 JAMstack
 
-(client-side JavaScript, reusable APIs, and prebuilt Markup)
+- client-side **J**avaScript
+- reusable **A**PIs
+- prebuilt **M**arkup
 
 ---
 
