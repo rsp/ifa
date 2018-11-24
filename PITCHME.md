@@ -24,7 +24,7 @@ Who are those brave 4?
 
 ---
 
-![](gh-p-i.png)
+![](gh-b4.png)
 
 ---
 
