@@ -134,7 +134,7 @@ We'll have good recruitment tasks:
 
 ---
 
-JAMstack
+**JAM**stack
 
 - client-side __J__avaScript
 - reusable __A__PIs
