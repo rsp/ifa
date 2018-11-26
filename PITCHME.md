@@ -152,11 +152,23 @@ How can we incrementally achieve the goal:
 
 ---
 
+What's a headless CMS?
+
+Something like WordPress admin panel but without the website.
+
+It decouples the content authoring process from the
+frontend implementation.
+
+---
+
 It works like this:
 
-- the headless CMS is used to easily edit content with a convenient UI
+- the headless CMS is used to easily edit content
+with a convenient UI
 - it exposes all the data via API to the frontend
-- we can switch the frontend without changing the authoring process
+- we can switch the frontend without:
+  - changing the authoring process
+  - exporting/importing existing content
 
 ---
 
@@ -220,6 +232,23 @@ Static hosting and CDN:
 I didn't find anything better yet.
 
 We already use it.
+
+---
+
+Why this presentation is called inFullAPI?
+
+Because I started with creating a simple API
+exposing some of the content used on the website.
+
+The idea was to have all the data in a custom database.
+
+---
+
+It would not be convenient for non-developers so
+I started exploring tools to make the process
+of content authoring easier and more convenient.
+
+Using a headless CMS seems like the way to go.
 
 ---
 
