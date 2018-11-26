@@ -136,9 +136,9 @@ We'll have good recruitment tasks:
 
 **JAM**stack
 
-- client-side __J__avaScript
-- reusable __A__PIs
-- prebuilt __M__arkup
+- client-side <u>J</u>avaScript
+- reusable <u>A</u>PIs
+- prebuilt <u>M</u>arkup
 
 ---
 
