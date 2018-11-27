@@ -1,10 +1,12 @@
-# inFullApi
+inFullAPI
 
-Hackathon
+November 2018 Hackathon
+
+iFM Promotional Stunt
 
 ---
 
-But first...
+But first, since we are on the topic of promotion...
 
 ---
 
@@ -21,8 +23,6 @@ This is how other people see us on GitHub:
 ---
 
 Who are those brave 4 who<br>don't hide that they work here?
-
-Any guesses?
 
 ---
 
@@ -44,15 +44,42 @@ Now back to the hackathon.
 
 ---
 
-Problem:
+Hackathon theme: iFM Promotional Stunt
+
+A good promotional stunt would be to:
+
+1. have a *fast* website and blog about its speed
+2. use *modern* technologies and blog about it
+3. make it easy to try new designs and technologies
+4. make a periodical contest for a better website
+
+---
+
+Problem #1:
 
 infullmobile.com website is sloooooow.
 
-Especially when accessed from the US.
-
+(*Especially* when accessed from the US.
 Not a problem if we don't look for clients there.
+Unfortunately we do.)
 
-Unfortunately we do.
+---
+
+Problem #2:
+
+It's hard to optimize because we're using WordPress.
+
+---
+
+Problem #3:
+
+It's hard to show off our mad skills since our website
+is powered by PHP ("Personal Home Page") using ready-made 
+not written by us.
+
+---
+
+Some numbers
 
 ---
 
@@ -121,20 +148,24 @@ Advantages:
 
 - We'll be up-to-date with modern technologies
 - Clients will see that we can build fast systems
-- We'll be able to create a company mobile app easily
-- We'll be able to build and test new website prototypes
+- Easy to build new website prototypes
+- Easy to create a company mobile app
 
 ---
 
 We'll have good recruitment tasks:
 
-  - Backend: create an API using the database
-  - Frontend: create a website using the API
-  - Mobile: create an app using the API
+  - create a website using the API
+  - create a mobile app using the API
 
 ---
 
-**JAM**stack
+We'll be able to say that even our website is built
+with the best technology we could find.
+
+---
+
+What is **JAM**stack
 
 - client-side __J__avaScript
 - reusable __A__PIs
@@ -145,10 +176,11 @@ We'll have good recruitment tasks:
 How can we incrementally achieve the goal:
 
 1. Use a headless CMS
-2. Import data from WordPress
+2. Migrate data from WordPress
 3. Create a static website based on the current HTML
 4. Populate it with the data from the new CMS via API
-5. Incrementally improve the website or create new versions
+5. Incrementally improve the website
+6. Create new website versions
 
 ---
 
@@ -161,14 +193,17 @@ frontend implementation.
 
 ---
 
-It works like this:
+Headless CMS works like this:
 
-- the headless CMS is used to easily edit content
-with a convenient UI
-- it exposes all the data via API to the frontend
-- we can switch the frontend without:
-  - changing the authoring process
-  - exporting/importing existing content
+- a convenient UI is used to easily edit content
+- all the data is exposed via API to the frontend
+
+---
+
+We can switch the frontend:
+
+  - without changing the authoring process
+  - without exporting/importing existing content
 
 ---
 
@@ -195,6 +230,16 @@ Headless CMS - hosted:
 - TakeShape - https://www.takeshape.io/
 - Kentico Cloud - https://kenticocloud.com/
 - Netlify CMS - https://www.netlifycms.org/
+
+---
+
+Note:
+
+Contentful is used in one of our commercial projects.
+
+Client is familiar with that and it was a requirement but none of us had any prior experience.
+
+It would be safer to learn those tools on internal projects.
 
 ---
 
@@ -252,8 +297,13 @@ Using a headless CMS seems like the way to go.
 
 ---
 
+Thank you
+
+---
+
 Slides:
 
 [pocztarski.com/ifa](https://pocztarski.com/ifa)
 
 ---
+ 
