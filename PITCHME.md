@@ -245,9 +245,7 @@ Headless CMS - hosted:
 
 ---
 
-Note:
-
-Contentful is used in one of our commercial projects.
+**Contentful** is used in one of our commercial projects.
 
 Client is familiar with that and it was a requirement but none of us had any prior experience.
 
