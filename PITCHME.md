@@ -22,7 +22,8 @@ This is how other people see us on GitHub:
 
 ---
 
-Who are those brave 4 who<br>don't hide that they work here?
+Who are those brave 4 who<br>don't hide that they belong
+to inFullMobile?
 
 ---
 
@@ -75,7 +76,7 @@ not targetted for developers.
 Problem #3:
 
 To try new designs we can only create WordPress themes. In PHP.
-We cannot try any modern technology like Vue or Aurelia.
+It's hard to use any modern technology like Vue or Aurelia.
 
 ---
 
