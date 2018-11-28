@@ -48,10 +48,10 @@ Hackathon theme: iFM Promotional Stunt
 
 A good promotional stunt would be to:
 
-1. have a *fast* website and blog about its speed
-2. use *modern* technologies and blog about it
-3. make it easy to try new designs and technologies
-4. make a periodical contest for a better website
+1. Have a *fast* website and blog about its speed
+2. Use *modern* technologies and blog about it
+3. Make new designs frequently and let people vote
+4. Make a periodical contest for a better website
 
 ---
 
@@ -60,22 +60,32 @@ Problem #1:
 infullmobile.com website is sloooooow.
 
 (*Especially* when accessed from the US.
-Not a problem if we don't look for clients there.
-Unfortunately we do.)
+Wouldn't be a problem if we didn't look for clients there,
+but we do.)
 
 ---
 
 Problem #2:
 
-It's hard to optimize because we're using WordPress.
+It's hard to optimize because we're using ready-made software
+not targetted for developers.
 
 ---
 
 Problem #3:
 
-It's hard to show off our mad skills since our website
-is powered by PHP ("Personal Home Page") using ready-made 
-not written by us.
+To try new designs we can only create WordPress themes. In PHP.
+We cannot try any modern technology like Vue or Aurelia.
+
+---
+
+Problem #4:
+
+It's hard to tell people that we use modern technology
+when our website is powered by PHP ("Personal Home Page")
+that is not particularly well known for its quality
+
+https://blog.codinghorror.com/the-php-singularity/
 
 ---
 
