@@ -1,4 +1,4 @@
-inFullAPI
+## inFullAPI
 
 November 2018 Hackathon
 
@@ -12,13 +12,13 @@ But first, since we are on the topic of promotion...
 
 This is how we see ourselves on GitHub:
 
-![](gh-sum-l.png)
+![](gh-sum-l-a.png)
 
 ---
 
 This is how other people see us on GitHub:
 
-![](gh-sum-i.png)
+![](gh-sum-i-a.png)
 
 ---
 
@@ -40,6 +40,26 @@ Only 3 people have ever admitted working at inFullMobile.
 ![](so-ifm-c.png)
 
 ---
+
+Recently we were discussing the topic of company
+promotion on GitHub and Stack Overflow.
+
+Not hiding the fact that we work here would be a good start.
+
+---
+
+We as a programmers should take an example from the design team
+who have excellent presence on Dribbble and Behance:
+
+- https://dribbble.com/infullmobile
+- https://www.behance.net/inFullMobile
+
+---
+
+This is a striking contrast to:
+
+- https://github.com/inFullMobile (see in incognito)
+- https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
 
 Now back to the hackathon.
 
@@ -75,20 +95,30 @@ not targetted for developers.
 
 Problem #3:
 
-To try new designs we can only create WordPress themes. In PHP.
+To try new designs we can only create WordPress themes.
 
-It's hard to use any modern frontend technology
-like Vue, Aurelia Stencil or Svelte.
-
-Using any backend technology other than PHP is out of the question.
+In PHP.
 
 ---
 
 Problem #4:
 
+It's hard to use any modern frontend technology
+like Vue, Aurelia Stencil or Svelte.
+
+---
+
+Problem #5:
+
+Using any backend technology other than PHP is out of the question.
+
+---
+
+Problem #6:
+
 It's hard to tell people that we use modern technology
-when our website is powered by PHP ("Personal Home Page")
-that is not particularly well known for its quality
+when our own website is powered by PHP ("Personal Home Page")
+that is not particularly well known for high quality
 
 https://blog.codinghorror.com/the-php-singularity/
 
@@ -159,6 +189,14 @@ What can we do:
 
 ---
 
+What is **JAM**stack
+
+- client-side __J__avaScript
+- reusable __A__PIs
+- prebuilt __M__arkup
+
+---
+
 Advantages:
 
 - We'll be up-to-date with modern technologies
@@ -172,6 +210,8 @@ We'll have good recruitment tasks:
 
   - create a website using the API
   - create a mobile app using the API
+  - create a Progressive Web App
+  - create a backend integration with the API
 
 ---
 
@@ -180,22 +220,38 @@ with the best technology we could find.
 
 ---
 
-What is **JAM**stack
+I started with creating a simple API
+exposing some of the content used on the website
 
-- client-side __J__avaScript
-- reusable __A__PIs
-- prebuilt __M__arkup
+- API: https://ifapi.herokuapp.com/
+- Website: https://ifapi.netlify.com/
+
+The API is powered by a Mongo database.
+
+The website gets the data from the API
+using delays to show what's happening.
 
 ---
 
-How can we incrementally achieve the goal:
+Demo time
 
-1. Use a headless CMS
-2. Migrate data from WordPress
-3. Create a static website based on the current HTML
-4. Populate it with the data from the new CMS via API
-5. Incrementally improve the website
-6. Create new website versions
+---
+
+It would not be convenient for non-developers so
+I started exploring tools to make the process
+of content authoring easier and more convenient.
+
+Using a headless CMS seems like the way to go.
+
+---
+
+What can we do:
+
+1. Put content into a headless CMS
+2. Create a static website
+3. Connect website to the CMS via API
+
+Now all content changes via GUI will be visible on the website.
 
 ---
 
@@ -226,8 +282,10 @@ The frontend can be:
 
 - a custom website in vanilla JS
 - a single-page application (SPA)
+- a progressive web app (PWA)
 - it can be rendered client-side or server-side
 - it can use Angular, React, Vue, Ember, Aurelia...
+- it can use Disappearing Frameworks like Svelte, Stencil... 
 - it can use a static site generator
 
 ---
@@ -293,23 +351,6 @@ We already use it.
 
 ---
 
-Why this presentation is called inFullAPI?
-
-Because I started with creating a simple API
-exposing some of the content used on the website.
-
-The idea was to have all the data in a custom database.
-
----
-
-It would not be convenient for non-developers so
-I started exploring tools to make the process
-of content authoring easier and more convenient.
-
-Using a headless CMS seems like the way to go.
-
----
-
 Thank you
 
 ---
@@ -319,4 +360,3 @@ Slides:
 [pocztarski.com/ifa](https://pocztarski.com/ifa)
 
 ---
- 
