@@ -77,7 +77,8 @@ Problem #3:
 
 To try new designs we can only create WordPress themes. In PHP.
 
-It's hard to use any modern frontend technology like Vue, Aurelia or Svelte.
+It's hard to use any modern frontend technology
+like Vue, Aurelia Stencil or Svelte.
 
 Using any backend technology other than PHP is out of the question.
 
