@@ -46,6 +46,9 @@ promotion on GitHub and Stack Overflow.
 
 Not hiding the fact that we work here would be a good start.
 
+(People who hide the GitHub organization membership
+also don't have the company logo on their profile.)
+
 ---
 
 We as a programmers should take an example from the design team
