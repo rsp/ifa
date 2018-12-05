@@ -112,7 +112,7 @@ not targetted for developers.
 
 Problem #3:
 
-To try new designs we can only create WordPress themes.
+For new designs we need to create WordPress themes.
 
 In PHP.
 
