@@ -134,7 +134,7 @@ Using any backend technology other than PHP is out of the question.
 Problem #6:
 
 It's hard to tell people that we use modern technology
-when our own website is powered by PHP ("Personal Home Page")
+when our own website is powered by PHP ("Personal Home Page" from 1994)
 that is not particularly well known for high quality
 
 https://blog.codinghorror.com/the-php-singularity/
