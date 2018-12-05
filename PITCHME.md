@@ -35,7 +35,7 @@ to inFullMobile?
 
 It's even worse on Stack Overflow.
 
-Only 3 people have ever admitted working at inFullMobile.
+Only 3 people have ever admitted<br>working at inFullMobile.
 
 ---
 
