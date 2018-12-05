@@ -16,11 +16,19 @@ This is how we see ourselves on GitHub:
 
 ![](gh-sum-l-a.png)
 
+<small>
+https://github.com/inFullMobile (logged in as inFullMobile member)
+</small>
+
 ---
 
 This is how other people see us on GitHub:
 
 ![](gh-sum-i-a.png)
+
+<small>
+https://github.com/inFullMobile (in incognito)
+</small>
 
 ---
 
@@ -41,6 +49,10 @@ Only 3 people have ever admitted<br>working at inFullMobile.
 
 ![](so-ifm-c.png)
 
+<small>
+https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
+</small>
+
 ---
 
 Recently we were discussing the topic of company
@@ -52,8 +64,7 @@ promotion on GitHub and Stack Overflow.
 
 ---
 
-We should take an example from the design team<br>
-who have excellent presence on Dribbble and Behance:
+We should take an example from the design team:
 
 - https://dribbble.com/infullmobile
 - https://www.behance.net/inFullMobile
