@@ -223,15 +223,6 @@ Advantages:
 
 ---
 
-We'll have good recruitment tasks:
-
-  - create a website using the API
-  - create a mobile app using the API
-  - create a Progressive Web App
-  - create a backend integration with the API
-
----
-
 We'll be able to say that even our website is built
 with the best technology we could find.
 
