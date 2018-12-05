@@ -204,10 +204,10 @@ It should be:
 
 What can we do:
 
-- Use modern technologies
-- Expose all data with an API
-- Build a Static/JAMstack website
-- Use good hosting with CDN
+- Use **modern** technologies
+- Expose all data with an **API**
+- Build a **Static/JAMstack** website
+- Use good hosting with **CDN**
 
 ---
 
@@ -216,16 +216,6 @@ What is **JAM**stack
 - client-side __J__avaScript
 - reusable __A__PIs
 - prebuilt __M__arkup
-
----
-
-Advantages:
-
-- We'll be up-to-date with modern technologies
-- Clients will see that we can build fast systems
-- Easy to build new website prototypes
-- Easy to create a company mobile app
-- Easy to integrate with the IoT projects
 
 ---
 
