@@ -236,10 +236,6 @@ using delays to show what's happening.
 
 ---
 
-# Demo time
-
----
-
 It would not be convenient for non-developers so
 I started exploring tools to make the process
 of content authoring easier and more convenient.
