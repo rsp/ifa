@@ -27,7 +27,7 @@ This is how other people see us on GitHub:
 ![](gh-sum-i-a.png)
 
 <small>
-https://github.com/inFullMobile (in incognito)
+https://github.com/inFullMobile (accessed in incognito mode)
 </small>
 
 ---
