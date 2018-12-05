@@ -73,6 +73,8 @@ We should take an example from the design team:
 - https://dribbble.com/infullmobile
 - https://www.behance.net/inFullMobile
 
+They don't hide where they work.
+
 ---
 
 Now back to the hackathon.
@@ -83,10 +85,10 @@ Hackathon theme: iFM Promotional Stunt
 
 A good promotional stunt would be to:
 
-1. Have a *fast* website and blog about its speed
-2. Use *modern* technologies and blog about it
-3. Make new designs frequently and let people vote
-4. Make a periodical contest for a better website
+1. Have a **fast** website and **blog** about its speed
+2. Use **modern** technologies and **blog** about it
+3. Make new **designs** frequently and let people **vote**
+4. Make a periodical **contest** for a better website
 
 ---
 
@@ -114,7 +116,9 @@ Problem #3:
 
 For new designs we need to create WordPress themes.
 
+<small>
 In PHP.
+</small>
 
 ---
 
@@ -134,7 +138,8 @@ Using any backend technology other than PHP is out of the question.
 Problem #6:
 
 It's hard to tell people that we use modern technology
-when our own website is powered by PHP ("Personal Home Page" from 1994)
+when our own website is powered by PHP
+("Personal Home Page" from 1994)
 that is not particularly well known for high quality
 
 https://blog.codinghorror.com/the-php-singularity/
@@ -220,6 +225,7 @@ Advantages:
 - Clients will see that we can build fast systems
 - Easy to build new website prototypes
 - Easy to create a company mobile app
+- Easy to integrate with the IoT projects
 
 ---
 
@@ -236,21 +242,11 @@ using delays to show what's happening.
 
 ---
 
-It would not be convenient for non-developers so
-I started exploring tools to make the process
-of content authoring easier and more convenient.
+It would not be convenient for non-developers.
+
+We need content authoring to be easier and more convenient.
 
 Using a headless CMS seems like the way to go.
-
----
-
-What can we do:
-
-1. Put content into a headless CMS
-2. Create a static website
-3. Connect website to the CMS via API
-
-Now all content changes via GUI will be visible on the website.
 
 ---
 
@@ -265,8 +261,9 @@ frontend implementation.
 
 Headless CMS works like this:
 
-- a convenient UI is used to easily edit content
-- all the data is exposed via API to the frontend
+A convenient UI is used to easily edit content.
+
+All the data is exposed via API to the frontend.
 
 ---
 
@@ -293,7 +290,7 @@ Tech stack
 
 ---
 
-Headless CMS - hosted:
+Headless CMS services:
 
 - Contentful - https://www.contentful.com/
 - Prismic - https://prismic.io/
@@ -307,16 +304,9 @@ Headless CMS - hosted:
 
 **Contentful** is used in one of our commercial projects.
 
-Client is familiar with that and it was a requirement but none of us had any prior experience.
+Our client is familiar with that and it was a requirement but none of us had any prior experience.
 
 It would be safer to learn those tools on internal projects.
-
----
-
-Headless CMS - installed:
-
-- Strapi - https://strapi.io/
-- KeystoneJS - https://keystonejs.com/
 
 ---
 
@@ -329,14 +319,6 @@ Static site generators:
 - VuePress - https://vuepress.vuejs.org/
 
 Much more at: https://www.staticgen.com/
-
----
-
-Static content handling<br>and asset conversion:
-
-- Cloudinary - https://cloudinary.com/
-- Uploadcare - https://uploadcare.com/
-- Filestack - https://www.filestack.com/
 
 ---
 
