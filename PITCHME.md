@@ -68,15 +68,6 @@ promotion on GitHub and Stack Overflow.
 
 ---
 
-We should take an example from the design team:
-
-- https://dribbble.com/infullmobile
-- https://www.behance.net/inFullMobile
-
-They don't hide where they work.
-
----
-
 Now back to the hackathon.
 
 ---
