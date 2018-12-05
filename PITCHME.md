@@ -44,10 +44,7 @@ Only 3 people have ever admitted working at inFullMobile.
 Recently we were discussing the topic of company
 promotion on GitHub and Stack Overflow.
 
-Not hiding the fact that we work here would be a good start.
-
-(People who hide the GitHub organization membership
-also don't have the company logo on their profile.)
+<small>Not hiding the fact that we work here would be a good start.</small>
 
 ---
 
@@ -60,10 +57,10 @@ who have excellent presence on Dribbble and Behance:
 ---
 
 This is a striking contrast to:
-
+<small>
 - https://github.com/inFullMobile (see in incognito)
 - https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
-
+</small>
 Now back to the hackathon.
 
 ---
