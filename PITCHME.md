@@ -94,9 +94,12 @@ Problem #1:
 
 infullmobile.com website is sloooooow.
 
-(*Especially* when accessed from the US.
-Wouldn't be a problem if we didn't look for clients there,
+*Especially* when accessed from the US.
+
+<small>
+(Wouldn't be a problem if we didn't look for clients there,
 but we do.)
+</small>
 
 ---
 
