@@ -71,13 +71,6 @@ We should take an example from the design team:
 
 ---
 
-This is in striking contrast to:
-
-<small>
-- https://github.com/inFullMobile (see in incognito)
-- https://stackoverflow.com/users/story/lists/160162/infullmobile?storyType=1
-</small>
-
 Now back to the hackathon.
 
 ---
