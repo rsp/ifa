@@ -236,7 +236,7 @@ using delays to show what's happening.
 
 ---
 
-Demo time
+# Demo time
 
 ---
 
