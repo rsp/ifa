@@ -223,11 +223,6 @@ Advantages:
 
 ---
 
-We'll be able to say that even our website is built
-with the best technology we could find.
-
----
-
 I started with creating a simple API
 exposing some of the content used on the website
 
