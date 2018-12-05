@@ -24,7 +24,7 @@ This is how other people see us on GitHub:
 
 ---
 
-Who are those brave 4 who<br>don't hide that they belong
+Who are those brave 4 who don't<br>hide that they belong
 to inFullMobile?
 
 ---
